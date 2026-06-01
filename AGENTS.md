@@ -35,3 +35,12 @@ colcon build --symlink-install
 - benchmark scripts
 - latency measurements
 - comparison reports
+
+## Codex Web context
+Only this experiment repo is available.
+Use docs/agnocast_codebase_map.md for Agnocast knowledge.
+
+## Codex local context
+The full ROS 2 workspace is at ~/agnocast_ws.
+Agnocast is located at ~/agnocast_ws/src/agnocast.
+The experiment repo is located at ~/agnocast_ws/src/agnocast-ros2-experiment.
